@@ -26,4 +26,4 @@ Joins, quits, kicks, chat, commands, block break/place, deaths, teleports, gamem
 Item pickup logging can be very noisy, so turn it off if your logs grow too fast.
 
 ## Soft dependencies
-StaffPlusPlus, AuthMe
+STRSCStaffCore,StaffPlusPlus, AuthMe
